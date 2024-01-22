@@ -1,2 +1,3 @@
-# FlaskService-Manager
-基于Flask+Vue的Flask服务器管理器，可用于管理数个Flask服务器的运行。
+# ⭐ 欢迎使用 FlaskService Manager ⭐
+
+## 🌹 这是一款专为 Python Flask 服务器而生的管理平台 🥳
